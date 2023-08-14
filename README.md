@@ -2,7 +2,7 @@
 # 🎥 Cinema-App Project
 
 ## 📜 Summary:
-Cinema-App is a REST web application for managing a cinema purchases, providing registration, authentication, and authorization functionalities for users. The application allows users to select movies, cinema halls, and movie sessions, add them to the shopping cart, and create orders based on their selections.
+Cinema-App is a REST web application for managing cinema purchases, providing registration, authentication, and authorization functionalities for users. The application allows users to select movies, cinema halls, and movie sessions, add them to the shopping cart, and create orders based on their selections.
 
 ## 📃 Functionality:
 
@@ -12,9 +12,11 @@ This application provides several key features:
 - Viewing a list of available movies, cinema halls, and movie sessions.
 - Selecting movies, cinema halls, and movie sessions and adding them to the shopping cart.
 - Creating orders based on the content of the shopping cart.
-- For ADMIN role it is snteraction with the database for storing and retrieving information about movies, cinema halls, and movie sessions.
+- For ADMIN role it is interaction with the database for storing and retrieving information about movies, cinema halls, and movie sessions.
 
 ## 📁 Project Structure:
+
+![entity_relations](relations.png)
 
 `/src/main/java/cinema` - contains the entire source code of the program:
 - `/config`: Configuration files.
