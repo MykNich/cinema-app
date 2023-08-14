@@ -1,10 +1,10 @@
 
 # 🎥 Cinema-App Project
 
-## 📜 Summary:
+## 📜 Summary
 Cinema-App is a REST web application for managing cinema purchases, providing registration, authentication, and authorization functionalities for users. The application allows users to select movies, cinema halls, and movie sessions, add them to the shopping cart, and create orders based on their selections.
 
-## 📃 Functionality:
+## 📃 Functionality
 
 This application provides several key features:
 - Registration and authentication of users.
@@ -14,7 +14,7 @@ This application provides several key features:
 - Creating orders based on the content of the shopping cart.
 - For ADMIN role it is interaction with the database for storing and retrieving information about movies, cinema halls, and movie sessions.
 
-## 📁 Project Structure:
+## 📁 Project Structure
 
 ![entity_relations](relations.png)
 
@@ -32,7 +32,7 @@ This application provides several key features:
 
 `/src/main/resources` - contains properties for connecting to the database
 
-## 💡 Technologies Used:
+## 💡 Technologies Used
 
 - Java
 - Spring Framework (Spring Web, Spring Security)
@@ -41,7 +41,7 @@ This application provides several key features:
 - MySQL
 - Tomcat
 
-## 🚀 Running the Project:
+## 🚀 Running the Project
 
 1. **Clone the repository**:
 
